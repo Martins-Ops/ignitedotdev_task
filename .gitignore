@@ -1,0 +1,13 @@
+# Terraform files
+*.tfstate
+*.tfstate.*
+*.tfvars
+
+# Ignore .terraform directory
+.terraform/
+
+# Ignore .terraform.lock.hcl file
+*.lock.hcl
+
+# Ignore node_modules directory in my-app directory
+my-app/node_modules/
