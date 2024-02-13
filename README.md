@@ -1,9 +1,6 @@
 
 # K8s Cluster with Kind, Node.js Application Deployment, and Monitoring Setup
 
-A brief description of what this project does and who it's for
-
-
 ## Prerequisites
 
 - Docker
