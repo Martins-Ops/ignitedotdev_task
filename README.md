@@ -27,7 +27,5 @@ kubectl port-forward svc/kube-prometheus-stack-grafana 3000:80
 
 ```  
 
-![](./prometheus.PNG)
 
-![](./grafana.PNG)
 
