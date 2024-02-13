@@ -12,7 +12,7 @@ KUBECONFIG_DIR="$HOME/.kube"
 # Set the kubeconfig context to the new cluster
 kubectl cluster-info --context kind-$CLUSTER_NAME
 
-# Verify the cluster is running
+# Verify the cluster is runninng
 kubectl get nodes
 
 # Saving the kubeconfig for later use
